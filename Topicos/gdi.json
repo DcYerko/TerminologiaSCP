@@ -5,9 +5,10 @@
 		["Anderson Robotics", "Robotica Anderson", "Anderson Robotics", "Propuesta"],
 		["Prometheus Labs", "Laboratorios Prometeo", "Laboratorios Prometheus", "Propuesta"],
 		["Gamers Against Weed", "Gamers Contra la Hierba", "Gamers Against Weed", "Propuesta"],
-	
-		
-		
+		["Herman Fuller's Circus of the Disqueting", "Circo de lo Perturbador de Herman Fuller", "Circo de lo Perturbador de Herman Fuller"],
+                ["GRU Divison P", "GRU División P", "División 'P' de la GRU"],
+		["Manna Charitable Foundation", "Fundación Caritativa Manna" , "Fundación de Caridad Manna"],
+		["UIU (Unusual Incidents Unit)",  "UdII (Unidad de Incidentes Inusuales)", "UII (idem)"],
 		["Original", "SCPWikia", "FundacionSCP", "Propuesta"]
-	]
+	
 }
