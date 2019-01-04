@@ -2,14 +2,33 @@
 	"words": 
 	[
 		["Original", "SCPWikia", "FundacionSCP", "Propuesta"],
-		["Are We Cool Yet?", "¿Ya Somos Cool Ahora?", "Are We Cool Yet?", "Propuesta"],
 		["Anderson Robotics", "Robotica Anderson", "Anderson Robotics", "Propuesta"],
+		["Are We Cool Yet?", "¿Ya Somos Cool Ahora?", "Are We Cool Yet?", "Propuesta"],
+		["Black Queen", "La Reina Oscura", "La Reina Negra", "Propuesta"],
+		["Chaos Insurgency", "El Caos Insurgente", "Insurgencia del Caos", "Propuesta"],
+		["Chicago Spirit", "El Espíritu de Chicago", "Espíritu de Chicago", "Propuesta"],
+		["Church of the Broken God", "La Iglesia del Dios Roto", "La Iglesia del Dios Quebrado", "Propuesta"],
+		["Cogwork Orthodox Church", "Iglesia Ortodoxa Engrajanista", "Iglesia Ortodoxa de la Obra Dentada", "Propuesta"],
+		["Church of Maxwellism", "Iglesia del Maxwelismo", "Idem", "Propuesta"],
+		["Doctor Wondertainment", "Doctor Wondertainment", "Idem", "Propuesta"],
+		["Fifth Church/Fifthism", "La Quinta Iglesia/Quintisismo", "Idem/Quntismo", "Propuesta"],
 		["Gamers Against Weed", "Gamers Contra la Hierba", "Gamers Against Weed", "Propuesta"],
+		["Global Occult Coalition", "Coalición Ocultista Global (COG)", "Coalición Oculta Global (idem)", "Propuesta"],
 		["GRU Divison P", "GRU División P", "División 'P' de la GRU", "Propuesta"],
 		["Herman Fuller's Circus of the Disqueting", "Circo de lo Perturbador de Herman Fuller", "Circo de lo Perturbador de Herman Fuller", "Propuesta"],
+		["Horizon Initiative", "La Iniciativa Horizonte", "Idem", "Propuesta"],
 		["Manna Charitable Foundation", "Fundación Caritativa Manna" , "Fundación de Caridad Manna", "Propuesta"],
+		["Marshall, Carter & Dark Ltd.", "Marshall, Carter & Dark Ltd." , "Idem", "Propuesta"],
+		["Nobody", "Nadie" , "Idem", "Propuesta"],
+		["Oneiroi Collective", "Colectivo Oneiroi" , "Colectivo Oneiroi", "Propuesta"],
+		["Office For The Reclamation of Islamic Artifacts (ORIA)", "Oficina para la Reclamación de Artefactos Islámicos (ORAI)" , "Idem", "Propuesta"],
 		["Prometheus Labs", "Laboratorios Prometeo", "Laboratorios Prometheus", "Propuesta"],
+		["Sarkic Cults/Sarkicism", "Cultos Sarkicos/Sarkicismo ", "Cultos Sárkicos/Idem", "Propuesta"],
+		["Serpent's Hand", "La Mano de la Serpiente", "Idem", "Propuesta"],
+		["The Factory", "La Fábrica", "Idem", "Propuesta"],
 		["UIU (Unusual Incidents Unit)",  "UdII (Unidad de Incidentes Inusuales)", "UII (idem)", "PROPUESTA"]
+		["Wilson's Wildlife Solutions",  "Wilson's Wildlife Solutions", "Soluciones de Wilson para la Fauna Silvestre", "PROPUESTA"]
+
 	]
 	
 }
